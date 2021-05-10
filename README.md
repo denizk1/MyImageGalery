@@ -1,2 +1,2 @@
 # MyImageGalery
- Basic İmage Gallery using html and css
+ Basic Image Gallery using html and css
